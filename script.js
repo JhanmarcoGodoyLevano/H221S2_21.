@@ -106,4 +106,3 @@ for (let i = 0; i < cabAcordeon.length; i++) {
         }
     });
 }
-
