@@ -10,8 +10,8 @@ app.use(express.static(__dirname + '/'));
 
 var conexion = mysql.createConnection({
 	host: "52.203.124.40",
-	user: "jhanmarco.godoy@vallegrande.edu.pe",
-	password: "as2022",
+	user: "jhanmarco",
+	password: "1234",
 	database: "login_socket"
 });
 
