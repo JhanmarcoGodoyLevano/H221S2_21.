@@ -34,4 +34,4 @@ closeterm.addEventListener('click', () => {
 $('.terminarboton').on('click', function() {
 	$('.terminos').css('opacity', 0);
 	$('.botonterminos').css('opacity', 0);
-})
+});
